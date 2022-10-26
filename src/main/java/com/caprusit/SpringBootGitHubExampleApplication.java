@@ -8,6 +8,7 @@ public class SpringBootGitHubExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootGitHubExampleApplication.class, args);
+		System.out.println("output - one");
 	}
 
 }
